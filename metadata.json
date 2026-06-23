@@ -1,0 +1,6 @@
+{
+  "name": "PayFlow AI",
+  "description": "AI-Powered Payroll & HR Management SaaS Platform for Software Companies and SMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
